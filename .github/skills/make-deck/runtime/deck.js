@@ -178,7 +178,7 @@
       const TIME = /\b(minutes?|hours?|days?|weeks?|months?|quarters?|years?|daily|weekly|monthly|quarterly|yearly|annual|annually|overnight|instant|instantly|anytime|real[- ]time|24\/7|around the clock)\b/gi;
       const TREND = /\b(rising|rises?|growing|grows?|increasing|increases?|surging|surges?|soaring|skyrocket\w*|doubl\w*|tripl\w*|exploding|plummet\w*|declin\w*|falling|dropping|guarantee\w*|frequently|often|commonly|increasingly|constantly|usually|always|regularly|routinely|transform\w*|revolutioni[sz]\w*|supercharg\w*|unlock\w*|empower\w*|accelerat\w*|booming|momentum|taking off|takes off)\b/gi;
       const RANK = /\b(top|most|biggest|largest|leading|number one|#1|fastest|slowest|cheapest|worst|best)\b/gi;
-      const HYPE = /\b(significantly|dramatically|game[- ]chang\w*|revolutionary|cutting[- ]edge|world[- ]class|best[- ]in[- ]class|state[- ]of[- ]the[- ]art|seamless\w*|robust|leverag\w*|synerg\w*|catastrophic|devastating|nightmare|unbeatable|destroy\w*|crippl\w*|ruin\w*|terrifying|great|excellent|outstanding|amazing|impressive|incredible|exceptional|fantastic)\b/gi;
+      const HYPE = /\b(significantly|dramatically|game[- ]chang\w*|revolutionary|cutting[- ]edge|world[- ]class|best[- ]in[- ]class|state[- ]of[- ]the[- ]art|catastrophic|devastating|nightmare|unbeatable|destroy\w*|crippl\w*|ruin\w*|terrifying|great|excellent|outstanding|amazing|impressive|incredible|exceptional|fantastic)\b/gi;
       const outlineText = norm(deck.header.outline);
       const timeInOutline = new Set((outlineText.match(TIME) || []).map((w) => stem(w.toLowerCase())));
       S.forEach((s) => {

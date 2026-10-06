@@ -153,7 +153,7 @@ source: <only if the outline names one>
 7. **One idea per slide.** If a slide needs two headings, it's two slides.
 8. **A number beats a bullet.** If a point has one striking number, make it a `stat` slide instead of burying it in a list. Two numbers that compare the same thing? One chart, not two stat slides. Two numbers that measure different things (52 offices, 2 weeks)? Each can be a `stat`, with another slide between them.
 9. **No filler.** Every slide carries a point from the outline. Never add generic slides ("What this means for you", "Let's make the most of…"). If the user asks for more slides than the outline can fill, give each outline point its own slide, then stop.
-10. **No hype or empty praise.** Not "significantly", "seamless", "cutting-edge", "game-changing", "catastrophic", "great", "strong results", "ready for what's next". Say what happened, with the user's numbers. A slide that only says things went well is filler: delete it.
+10. **No hype or empty praise.** Not "significantly", "cutting-edge", "game-changing", "catastrophic", "great", "strong results", "ready for what's next". Say what happened, with the user's numbers. A slide that only says things went well is filler: delete it.
 11. **A client remark with no name** isn't a `quote` slide. Use a `statement` with eyebrow `What a client told us` and the remark in quotation marks, highlighting one short phrase.
 12. **Industry-neutral.** The webinar series is for any business. Don't frame slides around a sector (healthcare, law firms…) unless the outline does.
 

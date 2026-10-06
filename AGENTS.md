@@ -16,7 +16,7 @@ Read **`BRAND.md`** too: colors, type, voice and names. It's short.
 
 - **Topic:** practical AI for business, with safety and risk at the center: everyday productivity, cloud modernization, Microsoft's pre-built agents, and built-in protections such as compliance controls and automatic data separation.
 - **Industry-neutral.** Don't write for a sector unless the outline names one.
-- **Presenters:** Michael LaBonte (technical) and Ophelia Clarke (client perspective).
+- **Presenters:** Michael LaBonte (technical), Kevin Kahn (CEO) and Ophelia Clarke (client perspective).
 - **Audience:** existing Intellicomp clients and prospects. Registration runs through Microsoft Teams.
 
 ## Repo map

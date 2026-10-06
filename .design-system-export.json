@@ -1,7 +1,7 @@
 {
   "from": "Intellicomp design system",
-  "commit": "c395c2f",
-  "exported": "2026-10-05",
+  "commit": "cbf694f",
+  "exported": "2026-10-06",
   "files": [
     ".github/copilot-instructions.md",
     ".github/instructions/slides.instructions.md",

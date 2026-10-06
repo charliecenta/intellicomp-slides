@@ -8,7 +8,7 @@ Intellicomp Technologies is a managed IT services company in Baltimore, Maryland
 
 Webinar audiences are **existing clients** plus **prospects coming in from LinkedIn**. The same slides have to reassure people who already trust Intellicomp and persuade people meeting it for the first time.
 
-**The webinar series** is about **practical, safe AI for business**: the Microsoft AI tools Intellicomp offers, what they do for a team day to day, and how to use them without putting data at risk. **Keep it industry-neutral**: no sector-specific framing unless the outline asks for it. Presenters: **Michael LaBonte** (the technical side) and **Ophelia Clarke** (the client's point of view). Registration runs through **Microsoft Teams**.
+**The webinar series** is about **practical, safe AI for business**: the Microsoft AI tools Intellicomp offers, what they do for a team day to day, and how to use them without putting data at risk. **Keep it industry-neutral**: no sector-specific framing unless the outline asks for it. Presenters: **Michael LaBonte** (the technical side), **Kevin Kahn** (CEO) and **Ophelia Clarke** (the client's point of view). Registration runs through **Microsoft Teams**.
 
 ## The impression
 
@@ -63,7 +63,7 @@ Every color comes from the logo. Use the CSS variables, never hex values.
 
 Write the way a trusted IT lead talks to a busy office manager.
 
-- **Plain words.** Write "backups run every night," not "leverage robust data-protection solutions." (These are style examples, not facts about Intellicomp.)
+- **Plain words.** Write "backups run every night," not "our end-to-end, next-generation data-protection solutions." Everyday business words such as *leverage*, *streamline* or *robust* are fine where they're the natural word. Just don't stack them, and say what actually happens. (These are style examples, not facts about Intellicomp.)
 - **Specific, and true.** Numbers, times and names beat adjectives. **Only use facts and figures that are in the outline you were given or in this file. Never invent a statistic, a client, a quote or a promise.** If a slide needs a number you don't have, write the point without one.
 - **Calm about risk.** State the risk and the fix. No scare tactics, no "catastrophic," no hacker-in-a-hoodie imagery.
 - **"We" and "you."** Short sentences. Active voice. American English.

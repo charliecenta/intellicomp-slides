@@ -8,7 +8,7 @@ For any slides, deck or presentation request, follow **`.github/skills/make-deck
 
 ## The webinars
 
-The series is about practical, safe AI for business, presented by Michael LaBonte and Ophelia Clarke, and it's **industry-neutral**. Details are in `AGENTS.md`.
+The series is about practical, safe AI for business, presented by Michael LaBonte, Kevin Kahn and Ophelia Clarke, and it's **industry-neutral**. Details are in `AGENTS.md`.
 
 ## Always
 
